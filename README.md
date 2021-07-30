@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nulzn
 - 👀 I’m interested in programming and tech
-- 🌱 I’m currently learning python, lua, c#, c++, mysql, javascript, java
+- 🌱 I’m currently learning python, lua, c#, c++, mysql, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me | Discord: Nulzn#1830, Twitter: Nulzn1
 
