@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Hobby Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
 - :telescope: I'm currently studying in high school.
 
 - :seedling: Exploring the web, trying to find intresting projects to collaborate on with new people.
