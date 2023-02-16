@@ -9,17 +9,6 @@
 </h1>
 </div>
 
-### :man_technologist: About Me :
-
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
-- :telescope: I'm currently studying in high school.
-
-- :seedling: Exploring the web, trying to find intresting projects to collaborate on with new people.
-
-- :zap: In my free time, I like to program games and websites.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nulzn-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Phiviews)
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
